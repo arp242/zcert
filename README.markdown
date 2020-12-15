@@ -3,9 +3,14 @@ zcert is a library and commandline tool to manage development certificates.
 It's a refactor from [mkcert], with a slightly nicer CLI (IMHO anyway) and can
 be used as a Go library.
 
+<!--
 See the [releases] page for binaries for most platforms, or install from source
 with `go get zgo.at/zcert/cmd/zcert`. The Go API is documented at
 https://pkg.godoc.org/zgo.at/zcert
+-->
+
+Install from source with `go get zgo.at/zcert/cmd/zcert`. The Go API is
+documented at https://pkg.godoc.org/zgo.at/zcert
 
 [releases]: github.com/zgoat/zcert/releases
 [mkcert]: https://github.com/FiloSottile/mkcert/
