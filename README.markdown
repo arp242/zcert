@@ -10,7 +10,7 @@ https://pkg.godoc.org/zgo.at/zcert
 -->
 
 Install from source with `go get zgo.at/zcert/cmd/zcert`. The Go API is
-documented at https://pkg.godoc.org/zgo.at/zcert
+documented at https://godocs.io/zgo.at/zcert
 
 [releases]: github.com/zgoat/zcert/releases
 [mkcert]: https://github.com/FiloSottile/mkcert/
